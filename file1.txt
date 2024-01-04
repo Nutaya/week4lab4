@@ -1,1 +1,2 @@
 Initial content in file1
+Update to file1
